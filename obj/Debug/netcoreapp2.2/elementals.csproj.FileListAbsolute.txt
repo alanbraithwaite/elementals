@@ -1,0 +1,11 @@
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\bin\Debug\netcoreapp2.2\elementals.deps.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\bin\Debug\netcoreapp2.2\elementals.runtimeconfig.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\bin\Debug\netcoreapp2.2\elementals.runtimeconfig.dev.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\bin\Debug\netcoreapp2.2\elementals.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\bin\Debug\netcoreapp2.2\elementals.pdb
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\obj\Debug\netcoreapp2.2\elementals.csprojAssemblyReference.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\obj\Debug\netcoreapp2.2\elementals.csproj.CoreCompileInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\obj\Debug\netcoreapp2.2\elementals.AssemblyInfoInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\obj\Debug\netcoreapp2.2\elementals.AssemblyInfo.cs
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\obj\Debug\netcoreapp2.2\elementals.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\elementals\obj\Debug\netcoreapp2.2\elementals.pdb
