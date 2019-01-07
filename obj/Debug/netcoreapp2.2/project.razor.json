@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\fall18\\elementals\\elementals.csproj",
+  "ProjectFilePath": "c:\\Users\\Alan\\source\\codeworks\\dotnet\\elementals\\elementals.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }

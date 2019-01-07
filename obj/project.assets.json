@@ -686,30 +686,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BoiseCodeWorks\\.nuget\\packages\\": {},
+    "C:\\Users\\Alan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\fall18\\elementals\\elementals.csproj",
+      "projectUniqueName": "c:\\Users\\Alan\\source\\codeworks\\dotnet\\elementals\\elementals.csproj",
       "projectName": "elementals",
-      "projectPath": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\fall18\\elementals\\elementals.csproj",
-      "packagesPath": "C:\\Users\\BoiseCodeWorks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\fall18\\elementals\\obj\\",
+      "projectPath": "c:\\Users\\Alan\\source\\codeworks\\dotnet\\elementals\\elementals.csproj",
+      "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Alan\\source\\codeworks\\dotnet\\elementals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\BoiseCodeWorks\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
